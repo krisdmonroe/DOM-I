@@ -1,0 +1,1 @@
+let timer = document.querySelectorAll("digit");
