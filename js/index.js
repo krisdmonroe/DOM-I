@@ -110,3 +110,6 @@ contactEmail.textContent = siteContent["contact"]["email"];
 
 const Footer = document.querySelector("footer");
 Footer.textContent = siteContent["footer"]["copyright"];
+
+
+// ...............
